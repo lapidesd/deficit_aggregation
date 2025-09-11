@@ -1,5 +1,4 @@
 # deficit_aggregation
-# deficit_aggregation
 This repository is the code and data supplement for the publication "Impact of spatial variability in root-zone storage deficit on runoff generation". This repository contains:
 * Code:
   
